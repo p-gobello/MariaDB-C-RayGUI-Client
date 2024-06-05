@@ -1,0 +1,1 @@
+gcc main.c -o test.exe -I include/ -L lib/ -lraylib -lopengl32 -lgdi32 -lwinmm -llibmariadb -lmariadbclient #-mwindows quando il programma sarà terminato, ora no perchè assenza utile per eventuale debug
